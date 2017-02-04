@@ -10,6 +10,7 @@ jQuery(document).ready(function() {
     }
 
     $(window).load(function () {
+        var oBalloon = new balloon('balloon3');
         $('.flexslider').flexslider({
             //动画
             animation: "slide",
