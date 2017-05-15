@@ -1494,7 +1494,7 @@ span.label {
   margin: 0.4em 0 0;
 }
 }
-/*与下边div分开距离，与自适应media标签无关，所以写到外边
+/*与下边div分开距离，与自适应media标签无关，所以写到外边*/
 .bottom-a-last {
  margin-bottom: 1.4em;	
-}*/
+}
